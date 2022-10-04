@@ -9,3 +9,5 @@ This dataset contains the files with time series of potential covariates, daily 
 - Get_forecast_2021.R: Generate the ensemble streamflow forecast for the peak monsoon season 2021. Before running this script, the script Par_bayesian_model_gamma_best_mod_kLT.rds must be run for 1 to 5-days lead time. 
 ### STAN
 - bayesian_model_gamma_2step_diff_st_2_best_kdlt.STAN: Contain stan code for the model structure of the best candidate BHMC for each lead time. Where k indicates the lead time.
+## References
+Ossandón, Á., Rajagopalan, B., Tiwari, A. D., & Mishra, V., T. Thomas. _A Bayesian hierarchical model combination framework for real-time daily ensemble streamflow forecasting across a rainfed river basin._ Under Review in Earth’s Future. 
