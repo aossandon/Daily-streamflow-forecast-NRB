@@ -1,2 +1,3 @@
 # Daily-streamflow-forecast-NRB
-This repository provided the data, R and STAN scripts for the implementation of the Bayesian Hierarchical Model Combination (BHMC) framework proposed in _Ossandón et al. (2022)_. 
+This repository provides the dataset for the Narmada River Basin (NRB), R, and STAN scripts for implementing the Bayesian Hierarchical Model Combination (BHMC) framework proposed in _Ossandón et al. (2022)_. 
+## Dataset for the NRB
