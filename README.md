@@ -5,3 +5,4 @@ This dataset contains the files with time series of potential covariates, daily 
 ## Scripts
 ### R
 - Library.R: Install and load all the packages required. Also, it contains all the personal functions created for this implementation. 
+- Calibration_stan_2step_2covar_Diff_LeadTimes.R: fit the best candidate BHMC for different lead times (1 to 10-day lead time). As output, it generates the file Par_bayesian_model_gamma_best_mod_kLT.rds with the posterior distribution of the model parameters. Where k indicates the lead time.
