@@ -10,4 +10,4 @@ This dataset contains the files with time series of potential covariates, daily 
 ### STAN
 - bayesian_model_gamma_2step_diff_st_2_best_kdlt.STAN: Contain stan code for the model structure of the best candidate BHMC for each lead time. Where k indicates the lead time.
 ## References
-Ossandón, Á., Rajagopalan, B., Tiwari, A. D., & Mishra, V., T. Thomas. _A Bayesian hierarchical model combination framework for real-time daily ensemble streamflow forecasting across a rainfed river basin._ Under Review in Earth’s Future. 
+Ossandón, Á., Rajagopalan, B., Tiwari, A. D., Thomas, T., & Mishra, V. (2022). A Bayesian Hierarchical Model Combination Framework for Real-Time Daily Ensemble Streamflow Forecasting Across a Rainfed River Basin. Earth’s Future, 10(12), e2022EF002958. https://doi.org/10.1029/2022EF002958
